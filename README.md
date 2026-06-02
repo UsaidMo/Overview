@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, my name is Usaid!
+### [IT/Cybersecurity Professional](https://www.linkedin.com/in/usaid-m)
 
-<!--
-**iceman1123z/iceman1123z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 IT Projects
+*   **Active Directory Homelab**
+    *   *Add a brief 1-sentence description here (e.g., Configured Windows Server 2022 with DHCP, DNS, and 100+ automated user accounts).*
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Projects
+*   **SOC Logging Lab**
+    *   *Add a brief 1-sentence description here (e.g., Deployed Wazuh SIEM to monitor brute-force attacks on a Linux traphost).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+*   **CCNA**
+    *   Acquired May 2026
+*   **Security+**
+    *   In-Progress
+
+## 📲 Connect With Me
+[<img align="left" alt="Usaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/usaid-m
