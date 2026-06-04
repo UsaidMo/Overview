@@ -10,9 +10,11 @@
     *   *Add a brief 1-sentence description here (e.g., Deployed Wazuh SIEM to monitor brute-force attacks on a Linux traphost).*
 
 ## 📜 Certifications
-*   **CCNA**
+
+*   **CCNA** 🌐
     *   Acquired May 2026
-*   **Security+**
+
+*   **Security+** 🛡️
     *   In-Progress
 
 ## 📲 Connect With Me
