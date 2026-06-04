@@ -2,8 +2,8 @@
 ### [IT/Cybersecurity Professional](https://www.linkedin.com/in/usaid-m)
 
 ## 👨‍💻 IT Projects
-*   **Active Directory Homelab**
-    *   *Add a brief 1-sentence description here (e.g., Configured Windows Server 2022 with DHCP, DNS, and 100+ automated user accounts).*
+*   **[Active Directory Homelab](https://github.com/UsaidMo/ActiveDirectoryLab)**
+    *   *An enterprise server environment built from scratch using Oracle VirtualBox.*
 
 ## 🔐 Cybersecurity Projects
 *   **SOC Logging Lab**
