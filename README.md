@@ -6,13 +6,13 @@
 *   **[Active Directory Homelab](https://github.com/UsaidMo/ActiveDirectoryLab)**
     *   *An enterprise server environment built from scratch using Oracle VirtualBox.*
 
-*   **[IT service desk ticketing system](https://github.com/UsaidMo/ActiveDirectoryLab)**
-    *   *An enterprise server environment built from scratch using Oracle VirtualBox.*
+*   **[IT service desk ticketing system](https://github.com/UsaidMo/Helpdesk-ticketing/blob/main/README.md)**
+    *   *A help-desk ticketing system based on the famous platform Jira.*
  
 
 ## 🔐 Cybersecurity Projects
 *   **SOC Logging Lab**
-    *   *Add a brief 1-sentence description here (e.g., Deployed Wazuh SIEM to monitor brute-force attacks on a Linux traphost).*
+    *   *In-progress*
 
 ## 📜 Certifications
 
