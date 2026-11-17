@@ -1,5 +1,5 @@
 # Hi, my name is Usaid!
-### [IT/Cybersecurity Professional](https://www.linkedin.com/in/usaid-m)
+### [IT Professional](https://www.linkedin.com/in/usaid-m)
 
 ## 👨‍💻 Projects
 
