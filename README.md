@@ -8,8 +8,8 @@
 
 ## 📜 Certifications
 
-*   **CCNA** 🌐
-    *   Acquired May 2026
+*   **CCNA** 
+*   **AB-900 (in-progress)** 
 
 ## 📲 Connect With Me
 [<img align="left" alt="Usaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
